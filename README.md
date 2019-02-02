@@ -1,0 +1,2 @@
+# FFPE_imaging
+primary focus of the medical field is to diagnose and treat diseases. The right treatment depends on the correct diagnosis. A current method of diagnosis uses FFPE, which is taking a tissue sample of tumor, slicing the tissue into thin pieces , staining and DNA sequencing. The problem that arises is the ambiguity between the healthy tissue and tumor tissue. The DNA sequencing relies heavily on the quantity of actual tumor DNA in the sample.
