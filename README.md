@@ -28,8 +28,9 @@ In Histology Lab the FFPE block can be evaluate by a handheld ultrasound device,
 ## Development
 
 ### Computer Learning Deep Vision
-Natalia Villareal had to leave due to a medical emergency and wasn't able to get her submission to us in time
+Natalia Villareal had to leave due to an unexpected medical emergency and wasn't able to get her submission to us in time.  This is a summary of what she was doing:
 
+The algorithm used will require as many data points as possible of healthy tissue (databases used reference in Acknowledgements). This will be feed in and generate a new category which will be abnormal or normal. We will manually integrate by giving feedback to the system of any incorrect categorization.  This will be continued until the percentage of wrong classifications is within a tolerable threshold.
 
 
 ### UI Design
@@ -45,9 +46,13 @@ There are an estimated 1 billion FFPE samples worldwide!  In 2018, there were ov
 
 ## Acknowledgements
 https://www.cancer.org/research/cancer-facts-statistics/
+
 https://data.mendeley.com/datasets/wmy84gzngw/1
+
 https://www.ultrasound-images.com/breast/
+
 http://www.eng.usf.edu/cvprg/Mammography/Database.html
+
 https://wiki.cancerimagingarchive.net/display/Public/ACRIN-FLT-Breast
 
 Icons Used:
