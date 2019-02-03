@@ -1,4 +1,5 @@
 # FFPE Seek - Tumor Evaluation
+Life Science Tools
 
 ## Introduction
 The right cancer treatment depends on the correct diagnosis. The current method of diagnosis uses FFPE (formalin fixed paraffin embedding) preservation of tumors, protecting the tumor in a wax block.  The FFPE block is cut into thin tissue slices, and is sent in parallel to separate labs for staining/microscopy and DNA sequencing. The problem that arises is the ambiguity between the healthy tissue and tumor tissue. The DNA sequencing relies heavily on the quantity of actual tumor DNA in the sample.
@@ -27,6 +28,7 @@ In Histology Lab the FFPE block can be evaluate by a handheld ultrasound device,
 ## Development
 
 ### Computer Learning Deep Vision
+Natalia Villareal had to leave due to a medical emergency and wasn't able to get her submission to us in time
 
 
 
@@ -34,7 +36,7 @@ In Histology Lab the FFPE block can be evaluate by a handheld ultrasound device,
 UI was designed by Michelle Sokoll
 https://pr.to/HR69C6/
 
-
+https://docs.google.com/document/d/1-Z8poETCXxZWrDEDsLyFYQ-9myh1AxPNn8_4ghZIWX0/edit?usp=sharing
 
 
 ## Marketing Opportunity
@@ -42,3 +44,14 @@ There are an estimated 1 billion FFPE samples worldwide!  In 2018, there were ov
 
 
 ## Acknowledgements
+https://www.cancer.org/research/cancer-facts-statistics/
+https://data.mendeley.com/datasets/wmy84gzngw/1
+https://www.ultrasound-images.com/breast/
+http://www.eng.usf.edu/cvprg/Mammography/Database.html
+https://wiki.cancerimagingarchive.net/display/Public/ACRIN-FLT-Breast
+
+Icons Used:
+https://www.flaticon.com/home 
+Michelle has a license
+
+
